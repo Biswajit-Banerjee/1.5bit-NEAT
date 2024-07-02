@@ -80,7 +80,7 @@ def eval_genomes(genomes, config, storage="models", log_file_path="default_log.c
 
     os.makedirs(storage, exist_ok=True)
     write_genome(most_fit, os.path.join(storage, f"genome_{gen}.pkl"))
-    most_fit.
+    # most_fit.
     
     log([str(gen), str(best_fitness), str(np.mean(avg_fitness))], path=log_file_path)
     
