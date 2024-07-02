@@ -1,5 +1,7 @@
 # 1.5bit-NEAT
 
+![Training result bipedal walker](results/best.gif)
+
 ## Authors
 - Biswajit Banerjee ([sumon@gatech.edu](mailto:sumon@gatech.edu))
 - Dennis Frank ([dfrank6@gatech.edu](mailto:dfrank6@gatech.edu))
